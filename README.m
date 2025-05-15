@@ -15,9 +15,4 @@ A modern, responsive "About Us" landing page built using **HTML** and **SCSS**.
 
 ## ▶️ How to Run
 
-1. Compile SCSS:
-
-   ```bash
-   sass scss/style.scss css/style.css
-
-2. Open index.html in your browser.
+1. Open index.html in your browser.
